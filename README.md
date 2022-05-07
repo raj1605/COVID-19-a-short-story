@@ -3,13 +3,35 @@ This repo belongs to our information visualization project final submission usin
 
 In this project we aim to explore the COVID-19 data and focus specifically on the state of California to discover more about the covid cases, vaccine efficacies and, the speed of vaccine research and deployment. We present the visualization in the form of a webpage for this project to demonstrate the hidden interesting patterns that occur in the dataset. Our audience are the government officials who can make use of the visually easy-to-understand data format to make important decisions and learn from the processes followed in the past.
 
-# Dataset source
+# Developed Code
 
-The dataset for this project is sourced from the CDC website.
+We have used a few libraries amidst our development code. Please find below the list of out javascript code. We have only attached JavaScript below since the rest of our code would be self explanatory.
+
+brushVis.js
+casestest.js
+choropleth.js
+combineTimelines.js (Internally uses Online library: milestone https://unpkg.com/d3-milestones/build/d3-milestones.min.js)
+county.js
+vaccine.js
+vaccine-graph.js
+sankey_monsh.js
+mapVis.js
+
+# Dataset source
+The dataset link is given here: https://drive.google.com/drive/folders/1VMhAw12GyC1p_ehy8ftz01A7pOvR-BGJ
+
+# Website Hosted Link
+
+
+
+# Screencast Project video link
+
+https://photos.app.goo.gl/UrU5ewtEm8XC68yu5
 
 # Seup Instructions
 1) Clone the repo into your local directory
 2) Use a web server to host the website and point it to index.html file to open the site (For easy use, go with webstorm which automatically hosts the website)
 3) The site is now displayed on your browser.
+
 
 
