@@ -1,0 +1,24 @@
+.heading{
+    width: 100%;
+    text-align:center;
+    font-size: x-large;
+    color: #2f8000;
+    font-family: "Bookman Old Style";
+}
+
+.h2{
+    width: 100%;
+    text-align:center;
+    font-size: small;
+    color: #0d0e0d;
+    font-family: "Bookman Old Style";
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    text-align:center;
+    transform: translate(20%, -45%);
+    #border: 5px solid #FFFF00;
+    padding: 10px;
+}
