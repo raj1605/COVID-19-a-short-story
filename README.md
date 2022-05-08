@@ -10,7 +10,7 @@ We have used a few libraries amidst our development code. Please find below the 
 brushVis.js\
 casestest.js\
 choropleth.js\
-combineTimelines.js (Internally uses Online library: milestone https://unpkg.com/d3-milestones/build/d3-milestones.min.js)\
+combineTimelines.js (Internally uses Online library: milestone https://unpkg.com/d3-milestones/build/d3-milestones.min.js) \
 county.js\
 vaccine.js\
 vaccine-graph.js\
