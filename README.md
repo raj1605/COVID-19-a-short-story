@@ -7,14 +7,14 @@ In this project we aim to explore the COVID-19 data and focus specifically on th
 
 We have used a few libraries amidst our development code. Please find below the list of out javascript code. We have only attached JavaScript below since the rest of our code would be self explanatory.
 
-brushVis.js
-casestest.js
-choropleth.js
-combineTimelines.js (Internally uses Online library: milestone https://unpkg.com/d3-milestones/build/d3-milestones.min.js)
-county.js
-vaccine.js
-vaccine-graph.js
-sankey_monsh.js
+brushVis.js\
+casestest.js\
+choropleth.js\
+combineTimelines.js (Internally uses Online library: milestone https://unpkg.com/d3-milestones/build/d3-milestones.min.js)\
+county.js\
+vaccine.js\
+vaccine-graph.js\
+sankey_monsh.js\
 mapVis.js
 
 # Dataset source
@@ -26,7 +26,7 @@ https://raj1605.github.io/COVID-19-a-short-story/
 
 # Screencast Project video link
 
-https://photos.app.goo.gl/UrU5ewtEm8XC68yu5
+https://photos.app.goo.gl/jsMTwfJFyz6XFZaJ8
 
 # Seup Instructions
 1) Clone the repo into your local directory
