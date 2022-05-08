@@ -1,3 +1,7 @@
+# Github link
+
+https://github.com/raj1605/COVID-19-a-short-story
+
 # COVID-19-a-short-story
 This repo belongs to our information visualization project final submission using D3.js. The contributors for this repo is the Tailblazers group (Rutuja Murlidhar Taware, Jignasu Pathak, Monish Raj Raghu and Nidhi Priya).
 
